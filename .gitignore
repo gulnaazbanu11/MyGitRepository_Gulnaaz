@@ -1,0 +1,14 @@
+# Ignore one file
+gulnaaz.txt
+
+# Ignore a folder
+NewTestFolder/
+
+# Ignore all log files
+*.log
+
+# Ignore build output
+build/
+
+# Ignore Java compiled files
+*.class
